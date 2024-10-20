@@ -29,8 +29,24 @@ const categories = {
         'Jasprit Bumrah', 'Ravichandran Ashwin', 'Babar Azam', 'Pat Cummins',
         'Kagiso Rabada', 'Daryl Mitchell', 'Shakib Al Hasan', 'Virat Kohli',
         'Joe Root', 'Travis Head', 'Rachin Ravindra', 'Mohammed Rizwan',
-        'Suryakumar Yadav', 'Heinrich Klaasen', 'Rashid Khan'
+        'Suryakumar Yadav', 'Heinrich Klaasen', 'Rashid Khan', 'Ben Stokes',
+        'Kane Williamson', 'Steve Smith', 'AB de Villiers', 'MS Dhoni',
+        'Yuzvendra Chahal', 'Devdutt Padikkal', 'Glenn Maxwell', 'Mohammed Siraj',
+        'Rinku Singh', 'Ravindra Jadeja', 'Rohit Sharma', 'Hardik Pandya'
+    ],
+    footballers: [
+        'Sunil Chhetri', 'Erling Haaland', 'Gurpreet Singh Sandhu', 'Sandesh Jhingan',
+        'Rowllin Borges', 'Udanta Singh', 'Ashique Kuruniyan', 'Anirudh Thapa',
+        'Manvir Singh', 'Liston Colaco', 'Suresh Singh Wangjam', 'Pritam Kotal',
+        'Cristiano Ronaldo', 'Lionel Messi', 'Kylian Mbappé', 'Neymar Jr.',
+        'Robert Lewandowski', 'Kevin De Bruyne', 'Mohamed Salah', 'Harry Kane',
+        'Zlatan Ibrahimović', 'Andres Iniesta', 'Sergio Ramos',
+        'Gareth Bale', 'Eden Hazard', 'Romelu Lukaku', 'Thomas Muller', 'Manuel Neuer', 'Marcelo',
+        'Virgil van Dijk', 'Harry Maguire', 'John Stones',
+        'Marcus Rashford', 'Phil Foden', 'Jack Grealish', 'Bukayo Saka'
     ]
 };
 
+
 export default categories;
+
